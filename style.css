@@ -8,4 +8,6 @@ body {
 #myCanvas {
   border-radius: 30px;
   border: 15px double rgb(201, 219, 233);
+   background-image: linear-gradient(red,yellow,green,blue);
+     background-repeat: no-repeat;
 }
